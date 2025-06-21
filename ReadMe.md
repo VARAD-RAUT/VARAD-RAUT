@@ -4,7 +4,7 @@
 💻 **Aspiring Software Developer | Web Enthusiast | AI & ML Explorer**  
 
 🚀 Passionate about building scalable web applications, AI-driven projects, and solving real-world problems through technology.  
-🎯 Currently a 3rd-year IT student eager to gain hands-on experience through internships and projects.  
+🎯 Currently a 4rd-year IT student eager to gain hands-on experience through internships and projects.  
 📌 Focused on **Full-Stack Development (MERN)**, **AI & ML**, and **Problem Solving in C++**.  
 
 ## 🔥 Skills & Technologies  
