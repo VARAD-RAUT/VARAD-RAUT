@@ -42,10 +42,18 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VARAD-RAUT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VARAD-RAUT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VARAD-RAUT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VARAD-RAUT&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARAD-RAUT&theme=tokyonight&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARAD-RAUT&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
